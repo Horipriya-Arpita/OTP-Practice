@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "457061318063",
+    "firebase_url": "https://otp-practice-2d82d-default-rtdb.firebaseio.com",
+    "project_id": "otp-practice-2d82d",
+    "storage_bucket": "otp-practice-2d82d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457061318063:android:53bf4d6754112e83a9035a",
+        "android_client_info": {
+          "package_name": "com.otppractice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457061318063-9b3s668ocd3oj1bu9657sb2s9sp9rc22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSKxd52yOUEFZB7sUCK8oDw6u_GUptzCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457061318063-9b3s668ocd3oj1bu9657sb2s9sp9rc22.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
